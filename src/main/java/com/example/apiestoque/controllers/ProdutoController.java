@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 import java.util.Map;
-
+//Api estoque versão usada para a aula de devops
 @RestController
 @RequestMapping("/api/produtos")
 @Tag(name = "Api produto")
